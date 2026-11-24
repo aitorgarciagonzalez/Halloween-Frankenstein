@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 360">
+<defs><linearGradient id="bg" x2="0" y2="1"><stop stop-color="#253b2b"/><stop offset="1" stop-color="#090e0b"/></linearGradient><linearGradient id="skin"><stop stop-color="#b5d18c"/><stop offset="1" stop-color="#53764d"/></linearGradient></defs>
+<rect width="500" height="360" rx="24" fill="url(#bg)"/><circle cx="250" cy="170" r="132" fill="#9ac477" opacity=".12"/>
+<path d="M145 305 Q150 245 190 230 L190 115 Q190 52 250 50 Q310 52 310 115 L310 230 Q350 245 355 305Z" fill="url(#skin)" stroke="#d4e6a8" stroke-width="5"/>
+<path d="M185 115 L175 78 L325 78 L315 115" fill="#18251c" stroke="#9ab77a" stroke-width="5"/>
+<path d="M205 145 L238 155 M262 155 L295 145" stroke="#17231a" stroke-width="12" stroke-linecap="round"/>
+<ellipse cx="220" cy="177" rx="12" ry="17" fill="#e9f4d5"/><ellipse cx="280" cy="177" rx="12" ry="17" fill="#e9f4d5"/><circle cx="220" cy="178" r="5" fill="#18251c"/><circle cx="280" cy="178" r="5" fill="#18251c"/>
+<path d="M250 180 L238 218 L260 218" fill="none" stroke="#3d5838" stroke-width="8"/><path d="M220 245 Q250 260 280 245" fill="none" stroke="#263b29" stroke-width="9"/>
+<rect x="135" y="165" width="25" height="58" rx="8" fill="#a9c985" stroke="#d4e6a8" stroke-width="4"/><rect x="340" y="165" width="25" height="58" rx="8" fill="#a9c985" stroke="#d4e6a8" stroke-width="4"/>
+<path d="M165 305 L335 305" stroke="#8eb66c" stroke-width="8" stroke-linecap="round"/>
+<text x="250" y="340" fill="#d9edc4" font-family="Georgia" font-size="18" text-anchor="middle" letter-spacing="4">THE CREATURE</text>
+</svg>

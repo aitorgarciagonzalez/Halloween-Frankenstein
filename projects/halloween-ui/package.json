@@ -1,0 +1,12 @@
+{
+  "name": "halloween-ui",
+  "version": "1.0.0",
+  "description": "Librería de componentes visuales temáticos de Halloween",
+  "author": "Aitor Garcia Gonzalez",
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/common": "^18.0.0",
+    "@angular/core": "^18.0.0"
+  },
+  "sideEffects": false
+}
